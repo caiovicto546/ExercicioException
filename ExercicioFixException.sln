@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixException", "ExercicioFixException\ExercicioFixException.csproj", "{0A5F5829-FEF9-4649-BEEF-75CD5AD893EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5F5829-FEF9-4649-BEEF-75CD5AD893EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5F5829-FEF9-4649-BEEF-75CD5AD893EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5F5829-FEF9-4649-BEEF-75CD5AD893EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5F5829-FEF9-4649-BEEF-75CD5AD893EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A61533-E261-40F1-B3E5-BB0BF92D053F}
+	EndGlobalSection
+EndGlobal
